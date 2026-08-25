@@ -1,0 +1,8 @@
+{
+  "name": "setup-node-gyp-test",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "os-service": "github:Trivector-System-AB/os-service"
+  }
+}
